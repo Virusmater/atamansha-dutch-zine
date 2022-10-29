@@ -41,7 +41,7 @@ jobs:
           repo: deb http://packages.amusewiki.org/debian bullseye main
           repo-name: amusewiki
           keys-asc: https://packages.amusewiki.org/amusewiki.gpg.key
-          install: fonts-roboto texlive-xetex libtext-amuse-perl libtext-amuse-preprocessor-perl libtext-amuse-compile-perl
+          install: fonts-roboto texlive-xetex libtext-amuse-perl libtext-amuse-preprocessor-perl libtext-amuse-compile-perl texlive-lang-european
           
       # Runs a set of commands using the runners shell
       - name: compile the book
