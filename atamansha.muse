@@ -5,7 +5,7 @@
 #lang nl 
 #cover cover.png 
 #coverwidth 1 
-#notes Vertaald uit het Engels door setoff press, oktober 2020, v1.99.1.13
+#notes Vertaald uit het Engels door setoff press, april 2022, v1.99.1.13
 #rights Creative Commons Naamsvermelding-NietCommercieel 4
 
 *** Inleiding
